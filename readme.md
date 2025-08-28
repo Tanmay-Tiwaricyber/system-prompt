@@ -6,6 +6,3 @@ Collection of system message instructions for various publicly deployed chatbots
 
 Feel free to do PR's.
 
-Please use discussions tabs for discussions not the Issues tab.
-
-
